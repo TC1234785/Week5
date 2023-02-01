@@ -12,3 +12,14 @@
 html {
     scroll-behavior: smooth
 }
+
+#Lorem_Ipsum {
+    padding: 0 5px;
+    border-top: 2px solid black ;
+    border-bottom: 4px solid gray;
+}
+
+#Lorem_P {
+    margin: 5px;
+    border: 10px ridge #90EE90;
+}
